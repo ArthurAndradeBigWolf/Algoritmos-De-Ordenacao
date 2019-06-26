@@ -10,8 +10,8 @@ int main(int argc, char const *argv[])
     int n = 6;
     FILE *arquivo;
     
-    arquivo = fopen("dadosInsertion.csv","a");
-
+    arquivo = fopen("dadosInsertion.csv","w");
+    
     fputs("Vetor >> ",arquivo);
     
     for(int i = 0; i<n; i++){
