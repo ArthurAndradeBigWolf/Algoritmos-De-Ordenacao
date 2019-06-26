@@ -1,0 +1,13 @@
+Vetor >> 8, 2, 4, 9, 3, 6, 
+Trocou 2 com 8 :
+ 2 ,8 ,4 ,9 ,3 ,6 ,
+Trocou 4 com 8 :
+ 2 ,4 ,8 ,9 ,3 ,6 ,
+2 ,4 ,8 ,9 ,3 ,6 ,
+Trocou 3 com 9 :
+ Trocou 9 com 8 :
+ Trocou 8 com 4 :
+ 2 ,3 ,4 ,8 ,9 ,6 ,
+Trocou 6 com 9 :
+ Trocou 9 com 8 :
+ 2 ,3 ,4 ,6 ,8 ,9 ,
